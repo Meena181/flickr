@@ -676,6 +676,8 @@ h5{
     display: flex;
     align-items: center;
     justify-content: space-around;
+    position: relative;
+    top: 138px	;
 }
 .smallbox{
 	width: 160px;
@@ -690,6 +692,10 @@ h5{
     padding-left: 17px;
     color: white;
     font-weight: bolder;
+}
+footer{
+	position: relative;
+	top: 150px;
 }
 
 
