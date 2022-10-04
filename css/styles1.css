@@ -558,12 +558,13 @@ li:hover {
 	justify-content: space-around;
 }
 .imagewrap{
-	width: 80vw;
+	width: 84vw;
 	display: flex;
 	flex-wrap: wrap;
 	align-items: center;
 	position: relative;
 	top: 140px;
+
 }
 
 
